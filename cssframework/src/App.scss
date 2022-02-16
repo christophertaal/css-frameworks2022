@@ -105,7 +105,11 @@ body {
   padding-top: 30px;
   background-color: $white;
 }
-
+.tab-icons .pe{
+  color: black;
+  text-decoration: none;
+  margin-right: 10px;
+}
 @media (max-width: 724px) {
   #flex-tab {
     display: flex !important;
@@ -136,7 +140,6 @@ body {
 }
 
 /* news page */
-
 #main-section {
   margin-left: 5% !important;
   margin-right: 5% !important;
@@ -295,7 +298,10 @@ footer .footerWrapper {
 footer .footerWrapper i {
   font-size: 40px;
 }
-
+.footerWrapper .email a{
+  color: $mildgrey;
+  text-decoration: none;
+}
 .footer-icons {
   width: 50%;
 }
@@ -318,6 +324,7 @@ footer .footerWrapper i {
   footer .footerWrapper {
     font-size: 10px;
   }
+ 
 }
 
 @media (max-width: 340px) {

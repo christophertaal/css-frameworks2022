@@ -52,7 +52,7 @@ const Home = () => {
                                 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Error porro voluptatum aperiam nam, sapiente officiis ut consequatur laudantium nulla dolor eaque obcaecati ipsa itaque possimus beatae rem natus voluptates debitis.
                                 </p>
                                 <div className="tab-icons">
-                                    <a href="" className="pe-2">SHARE</a>
+                                    <a href="" className="pe">SHARE</a>
                                     <a><i className="fab fa-facebook-f pe-2"></i></a>
                                     <a><i className="fab fa-twitter pe-2"></i></a>
                                 </div> 
@@ -69,7 +69,7 @@ const Home = () => {
                             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Error porro voluptatum aperiam nam, sapiente officiis ut consequatur laudantium nulla dolor eaque obcaecati ipsa itaque possimus beatae rem natus voluptates debitis.
                             </p>
                             <div className="tab-icons">
-                                <a href="" className='pe-2'>SHARE</a>
+                                <a href="" className='pe'>SHARE</a>
                                 <a><i className="fab fa-facebook-f pe-2"></i></a>
                                 <a><i className="fab fa-twitter pe-2"></i></a>
                             </div> 
@@ -86,7 +86,7 @@ const Home = () => {
                             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Error porro voluptatum aperiam nam, sapiente officiis ut consequatur laudantium nulla dolor eaque obcaecati ipsa itaque possimus beatae rem natus voluptates debitis.
                             </p>
                             <div className="tab-icons">
-                                <a href="" className='pe-2'>SHARE</a>
+                                <a href="" className='pe'>SHARE</a>
                                 <a><i className="fab fa-facebook-f pe-2"></i></a>
                                 <a><i className="fab fa-twitter pe-2"></i></a>
                             </div> 
